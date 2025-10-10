@@ -1,12 +1,12 @@
 <h1 align="center">👋 Hello World! I'm Sujata Cheeta 🌸</h1>
 
 <p align="center">
-💻 <b>B.Tech CSE Student (JECRC)</b> | 🌱 <b>Learning MongoDB & Node.js</b> | 🚀 <b>MERN Stack Explorer</b>
+💻 <b>B.Tech CSE Student (JECRC)</b> | 🌱 <b>Learning Databases</b> | 🚀 <b>MERN Stack Explorer</b>
 </p>
 
 <p align="center">
-  <a href="mailto:sujatacheeta@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="www.linkedin.com/in/sujata-cheeta-173ba6290"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:sujatacheeta2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sujata-cheeta-173ba6290/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/sujatacheeta"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
