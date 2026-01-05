@@ -31,17 +31,4 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sujatacheeta&show_icons=true&theme=tokyonight" alt="GitHub stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujatacheeta&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujatacheeta&theme=tokyonight" alt="GitHub Streak" height="150"/>
-</p>
-
----
-
 ### ✨ “Always Learning, Always Building.” 🚀
