@@ -1,7 +1,7 @@
-<h1 align="center">👋 Hello World! I'm Sujata Cheeta 🌸</h1>
+<h1 align="center">👋 Hello World! I'm Sujata 🌸</h1>
 
 <p align="center">
-💻 <b>B.Tech CSE Student (JECRC)</b> | 🌱 <b>Learning Databases</b> | 🚀 <b>MERN Stack Explorer</b>
+💻 <b>B.Tech CSE Student (JECRC)</b> | 🚀 <b>MERN Stack Explorer</b>
 </p>
 
 <p align="center">
@@ -16,7 +16,6 @@
 
 - 🎓 I'm a **B.Tech Computer Science student** at **JECRC Foundation**  
 - 🌱 Currently exploring **MongoDB, MySQL and Full Stack Development**  
-- 💬 Ask me about: Databases and Web Dev basics  
 
 ---
 
